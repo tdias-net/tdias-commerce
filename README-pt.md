@@ -83,8 +83,6 @@ O Elite não é um plano. É uma infraestrutura completa. Construído sobre arqu
 
 ---
 
----
-
 <div align="center">
 
 **Qualquer que seja o seu ponto de partida, o tdias Commerce foi construído para que você nunca precise trocar de plataforma.**
