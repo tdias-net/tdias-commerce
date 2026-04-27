@@ -82,8 +82,6 @@ Elite is not a plan. It is a complete infrastructure. Built on a resilient cloud
 
 ---
 
----
-
 <div align="center">
 
 **Whatever your starting point, tdias Commerce was built so you never have to switch platforms again.**
